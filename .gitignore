@@ -1,0 +1,8 @@
+# IMAGENES
+*.jpg
+
+# VS CODE
+*.code-workspace
+
+# OTROS
+desktop.ini
