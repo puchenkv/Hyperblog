@@ -3,6 +3,7 @@
 
 # VS CODE
 *.code-workspace
+*.vscode
 
 # OTROS
 desktop.ini
