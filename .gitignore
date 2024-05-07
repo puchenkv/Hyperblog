@@ -1,5 +1,6 @@
 # IMAGENES
 *.jpg
+*.png
 
 # VS CODE
 *.code-workspace
