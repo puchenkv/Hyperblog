@@ -23,5 +23,9 @@ Y como un amable recordatorio: **Este readme.md es una prueba**.  Diseñado para
     2. https://github.com/puchenkv/hyperblogfvp
        Practicas personales de Fork, Pull Request, rama [master]
 
+## Editor online y gratuito de MD
+
+   [pandao](https://pandao.github.io/editor.md/en.html/ "ingresa al link")
+
 **Nota:**
 Practicas del "Curso Profesional de Git y GitHub".
